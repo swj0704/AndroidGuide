@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidGuide.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidGuide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinExample/AndroidGuide.KotlinExample.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinExample/AndroidGuide.KotlinExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidGuide.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidGuide.app.iml" />
     </modules>
   </component>
