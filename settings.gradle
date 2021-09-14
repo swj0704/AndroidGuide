@@ -10,3 +10,4 @@ rootProject.name = "AndroidGuide"
 include ':app'
 include ':KotlinExample'
 include ':bottomnavigationexample'
+include ':drawerlayoutexample'

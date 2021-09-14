@@ -3,6 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Github/AndroidGuide/drawerlayoutexample/src/main/res/layout/activity_main.xml" value="0.17806484295845998" />
+        <entry key="..\:/Github/AndroidGuide/drawerlayoutexample/src/main/res/layout/app_bar_main.xml" value="0.17806484295845998" />
+        <entry key="..\:/Github/AndroidGuide/drawerlayoutexample/src/main/res/layout/fragment_gallery.xml" value="0.17806484295845998" />
+        <entry key="..\:/Github/AndroidGuide/drawerlayoutexample/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Github/AndroidGuide/drawerlayoutexample/src/main/res/layout/fragment_slideshow.xml" value="0.17806484295845998" />
+        <entry key="..\:/Github/AndroidGuide/drawernavigationexample/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Github/AndroidGuide/drawernavigationexample/src/main/res/layout/app_bar_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Github/AndroidGuide/drawernavigationexample/src/main/res/layout/content_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Github/AndroidGuide/drawernavigationexample/src/main/res/layout/fragment_gallery.xml" value="0.36614583333333334" />
+        <entry key="..\:/Github/AndroidGuide/drawernavigationexample/src/main/res/layout/fragment_home.xml" value="0.36614583333333334" />
+        <entry key="..\:/Github/AndroidGuide/drawernavigationexample/src/main/res/layout/fragment_slideshow.xml" value="0.36614583333333334" />
+        <entry key="..\:/Github/AndroidGuide/drawernavigationexample/src/main/res/layout/nav_header_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Github/AndroidGuide/drawernavigationexample/src/main/res/layout/navi_header.xml" value="0.36614583333333334" />
+        <entry key="..\:/Github/AndroidGuide/drawernavigationexample/src/main/res/menu/main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Github/AndroidGuide/drawernavigationexample/src/main/res/menu/navi_menu.xml" value="0.36614583333333334" />
         <entry key="..\:/Github/AndroidGuide/fragmentexample/src/main/res/layout/activity_main.xml" value="0.2046875" />
         <entry key="..\:/Github/AndroidGuide/fragmentexample/src/main/res/layout/fragment_home.xml" value="0.2046875" />
         <entry key="..\:/Github/AndroidGuide/fragmentexample/src/main/res/layout/fragment_menu.xml" value="0.2046875" />
@@ -12,6 +27,7 @@
       </map>
     </option>
   </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
