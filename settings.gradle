@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "AndroidGuide"
 include ':app'
 include ':KotlinExample'
+include ':fragmentexample'
