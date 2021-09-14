@@ -5,6 +5,15 @@ import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class MainActivity : AppCompatActivity() {
+
+    // fragment란?
+    // 사전적 의미는 조각이라는 뜻이다.
+    // 대부분 액티비티 안에서 동작하며,
+    // 액티비티에 의존적이며
+    // context를 가지고 있지 않다.
+    // context를 가지고 있지 않고, 액티비티에 의존적이어서
+    // 액티비티에 비해 메모리 소모가 적다.
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)

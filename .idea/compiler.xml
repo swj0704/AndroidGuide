@@ -3,7 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.7">
       <module name="AndroidGuide.app" target="13" />
-      <module name="AndroidGuide.fragmentexample" target="13" />
+      <module name="AndroidGuide.bottomnavigationexample" target="13" />
     </bytecodeTargetLevel>
   </component>
 </project>
