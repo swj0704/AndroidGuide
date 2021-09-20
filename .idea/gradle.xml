@@ -13,7 +13,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/KotlinExample" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bottomnavigationexample" />
+            <option value="$PROJECT_DIR$/drawerlayoutexample" />
             <option value="$PROJECT_DIR$/recyclerviewexample" />
+            <option value="$PROJECT_DIR$/sharedpreferenceexample" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
