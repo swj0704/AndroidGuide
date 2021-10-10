@@ -40,7 +40,7 @@ interface API {
     @Body -> api 요청값을 객체로 넘겨준다. 이 객체에서 요청값도 SerializedName과 변수명을 통해서 이름을 지정한다.
     형식은 @Body requestBody : RequestBody
 
-    @Part("gender") gender: RequestBody,         사진, 파일과 같이 다른 요청값을 보낼때 사용한다.
+    @Part("value") value: RequestBody,         사진, 파일과 같이 다른 요청값을 보낼때 사용한다.
     @Part image: MultipartBody.Part     사진, 파일을 보내는 요청 값이다.
 
     val imageFileUrl = Uri.fromFile(file).toString()
